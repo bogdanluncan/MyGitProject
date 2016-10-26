@@ -1,0 +1,1 @@
+This is the first text inside my file which is considered by git.
