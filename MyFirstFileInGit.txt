@@ -1,5 +1,0 @@
-This is the first text inside my file (and hdeleted somthing here) considered by git.
-
-Modified the first file.
-
-To see differences
